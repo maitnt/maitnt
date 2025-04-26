@@ -6,8 +6,6 @@ I'm..
   <img src="https://i.imgur.com/bW6BTno.png" style="display: inline-block">
 </p>
   
-<div align="center">Made with ❤️ in Vietnam</div>
-<br>
 <table>
 <tr>
   <td width="40%">
@@ -76,6 +74,8 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 
 <br>
 <br>
+<br>
+<div align="center">Made with ❤️ in Vietnam</div>
 <br>
 
 ## 🐣 Github Stats
