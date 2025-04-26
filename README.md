@@ -1,15 +1,13 @@
-<div align="center">
 
-Made with ❤️ in Vietnam
-
-</div>
-
-  <h2 style="display: inline-block">Hi there <img src="https://i.imgur.com/BxdC329.gif" style="width:50px;height:44px!important; display: inline-block"></h2>
+<h2>Hi there <img src="https://i.imgur.com/BxdC329.gif" style="width:50px;height:44px!important"></h2>
   
 I'm..
-<p align="center">
+<div align="center">
   <img src="https://i.imgur.com/bW6BTno.png" style="display: inline-block">
 </p>
+  
+<div align="center">Made with ❤️ in Vietnam</div>
+<br>
 <table>
 <tr>
   <td width="40%">
