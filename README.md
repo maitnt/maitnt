@@ -1,10 +1,5 @@
 
-<h2>Hi there <img src="https://i.imgur.com/BxdC329.gif" style="width:50px;height:44px!important"></h2>
-  
-I'm..
-<div align="center">
-  <img src="https://i.imgur.com/bW6BTno.png" style="display: inline-block">
-</p>
+<div align='center'><img src="https://i.imgur.com/dyYEkIZ.png"/></div>
   
 <table>
 <tr>
@@ -75,7 +70,16 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 <br>
 <br>
 <br>
-
+## 📫 Let's Connect!
+<div align="center">
+  
+<a href="mailto:maitrangnt2210@gmail.com" target="_blank"> <img align="left" src="https://i.imgur.com/DwBVOsw.png" alt="mail" height="42px"/> </a> 
+<a href="#" target="_blank"> <img align="left" src="https://i.imgur.com/p0BUcf7.png" alt="linkedin" height="42px"/> </a> 
+<a href="https://github.com/maitnt" target="_blank"> <img align="left" src="https://i.imgur.com/Qa1tqYE.png" alt="linkedin" height="42px"/> </a> 
+</div>
+<br>
+<br>
+<br>
 ## 🐣 Github Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitnt&theme=xcode&hide_border=true" />
@@ -86,7 +90,6 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 </div>
 <br>
 <div align="center">Made with ❤️ in Vietnam</div>
-
 
 
 
