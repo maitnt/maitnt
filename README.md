@@ -75,8 +75,6 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 <br>
 <br>
 <br>
-<div align="center">Made with ❤️ in Vietnam</div>
-<br>
 
 ## 🐣 Github Stats
 
@@ -86,7 +84,8 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=maitnt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitnt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
-
+<br>
+<div align="center">Made with ❤️ in Vietnam</div>
 
 
 
