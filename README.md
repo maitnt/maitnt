@@ -47,7 +47,7 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 
 - 🔭 &nbsp; I’m currently working on **<...>**
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/...)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/maitnt)
 - ☕ &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/...)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/...)
