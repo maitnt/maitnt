@@ -14,11 +14,11 @@
     class Alice {
       constructor() {
         this.name = "Alice";
-        this.birth_year = undefined;
+        this.birth_year = 1995;
         this.role = "Frontend Engineer";
         this.language_spoken = ["vi_VN", "en_US"];
         this.education = "Software Engineering @Saigon University";
-        this.achievements = ["..."];
+        this.achievements = ["Bachelor of Information Technology", "Toeic 690"];
       }
     
       sayHi() {
