@@ -84,9 +84,10 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitnt&theme=xcode&hide_border=true" />
 
-<div style="display: flex; ">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=maitnt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitnt&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitnt&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitnt&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maitnt&theme=dracula)|
+ |-----|------|------|
+ 
+ 
+ Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 <br>
 <div align="center">Made with ❤️ in Vietnam</div>
