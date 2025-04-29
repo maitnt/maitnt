@@ -70,6 +70,7 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 <br>
 <br>
 <br>
+
 ## 📫 Let's Connect!
 <div align="center">
   
@@ -77,9 +78,11 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 <a href="#" target="_blank"> <img align="left" src="https://i.imgur.com/p0BUcf7.png" alt="linkedin" height="42px"/> </a> 
 <a href="https://github.com/maitnt" target="_blank"> <img align="left" src="https://i.imgur.com/Qa1tqYE.png" alt="linkedin" height="42px"/> </a> 
 </div>
+
 <br>
 <br>
 <br>
+
 ## 🐣 Github Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitnt&theme=xcode&hide_border=true" />
