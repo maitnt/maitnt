@@ -45,8 +45,8 @@ Hi there, I'm Trang as known as Alice - A Front-End Developer from Vietnam, spec
 
 <img align="right" alt="GIF" src="https://i.imgur.com/nIVpw3f.png" width="280px" />
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; I’m currently focusing on #100DaysWithAngular challenges
--  &nbsp; 🌱 &nbsp; I’m currently learning Nx - monorepo; 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; I’m currently focusing on monorepo projects
+-  &nbsp; 🌱 &nbsp; I’m currently learning Nx; 
 -  &nbsp;👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/maitnt)
 -  &nbsp;☕ &nbsp; Ask me about anything tech related, I am happy to help;
 -  &nbsp;📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/...)
