@@ -45,13 +45,13 @@ A Front-End Developer from Vietnam, specializing in web development with Angular
 
 <img align="right" alt="GIF" src="https://i.imgur.com/nIVpw3f.png" width="280px" />
 
-- 🔭 &nbsp; I’m currently working on **<...>**
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/maitnt)
-- ☕ &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/...)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/...)
-- 📔 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [BOOK](https://www.goodreads.com/...) to see the book I have read
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; I’m currently focusing on #100DaysWithAngular challenges
+-  &nbsp; 🌱 &nbsp; I’m currently learning Typescript; 
+-  &nbsp;👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/maitnt)
+-  &nbsp;☕ &nbsp; Ask me about anything tech related, I am happy to help;
+-  &nbsp;📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/...)
+-  &nbsp;📝 &nbsp; Checkout my [resume](https://drive.google.com/file/...)
+-  &nbsp;📔 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [BOOK](https://www.goodreads.com/...) to see the book I have read
 
 <br>
 <br>
