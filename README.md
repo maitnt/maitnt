@@ -6,7 +6,6 @@
   <td width="40%">
     <img src="https://i.imgur.com/ArKmHfl.png" width="400"  alt="Alice" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); object-fit: cover;">
   </td>
-
   <td width="60%">
 
   ``` ts
