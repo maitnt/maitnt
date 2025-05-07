@@ -51,6 +51,7 @@ It’s a pleasure having you here! I'm Trang also known as Alice - A Front-End D
 -  &nbsp;📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/...)
 -  &nbsp;📝 &nbsp; Checkout my [resume](https://drive.google.com/file/...)
 -  &nbsp;📔 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [BOOK](https://www.goodreads.com/...) to see the book I have read
+ 
 <br>
 <br>
 <br>
