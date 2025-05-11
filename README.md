@@ -35,7 +35,6 @@
 </table>
 
 It’s a pleasure having you here! I'm Trang also known as Alice - A Front-End Developer from Vietnam, specializing in web development with Angular as my core technology 💾. Passionate about creating user interfaces 💄 and optimizing user experiences 😎, I’m always eager to learn and grow in this field 💪.
-
 <br>
 <br>
 <br>
