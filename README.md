@@ -115,7 +115,6 @@ It’s a pleasure having you here! I'm Trang also known as Alice - A Front-End D
 <br>
 <br>
 
-
 ## 🐣 Github Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maitnt&theme=xcode&hide_border=true" />
