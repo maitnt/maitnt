@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=eda1b3&center=true&vCenter=true&repeat=false&random=true&width=700&lines=%E2%9A%A0%EF%B8%8F+Entering%3A+one+caffeine-fueled%2C+idea-packed+girl+on+a+mission+to+make+cool+things+happen.)](https://git.io/typing-svg)
-<div align='center'><img src="https://i.imgur.com/dyYEkIZ.png"/></div>
+<!-- <div align='center'><img src="https://i.imgur.com/dyYEkIZ.png"/></div>-->
+<div align='center'><img src="https://github.com/user-attachments/assets/23cf1cf9-34f0-4f73-9e9c-33e54a60d97f"/></div>
 
 <table>
 <tr>
