@@ -43,7 +43,8 @@ It’s a pleasure having you here! I'm Trang also known as Alice - A Front-End D
 
 ## 🧐 More About Me:
 
-<img align="right" alt="GIF" src="https://i.imgur.com/nIVpw3f.png" width="280px" />
+<!-- <img align="right" alt="GIF" src="https://i.imgur.com/nIVpw3f.png" width="280px" /> -->
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/590c8dbd-5713-4960-8e76-2522382a82f8" width="180px" />
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; I’m currently focusing on monorepo projects
 -  &nbsp; 🌱 &nbsp; I’m currently learning Nx; 
