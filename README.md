@@ -8,5 +8,3 @@
  
  Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 <br>
-
-![z7226380979776_205b4a0d0e2736d3ff1523493c9ab395](https://github.com/user-attachments/assets/720b5c55-bb17-464d-adf0-5f050b3e5789)
